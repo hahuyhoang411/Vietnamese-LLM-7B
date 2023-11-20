@@ -11,3 +11,7 @@ This repository is for the VietAI Research team to expand the vocabulary using O
 ## SFT + DPO
 - [Zephyr handbook](https://github.com/huggingface/alignment-handbook)
 - [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)
+- [Deepspeed Chat](https://medium.com/@musicalchemist/rlhf-training-at-scale-with-deepspeed-chat-6259bc04dc59)
+
+## LORA
+- [Ahead of AI](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)

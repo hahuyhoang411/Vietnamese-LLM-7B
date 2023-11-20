@@ -22,7 +22,7 @@ This repository is for the VietAI Research team to expand the vocabulary using O
 - [Deepspeed Chat](https://medium.com/@musicalchemist/rlhf-training-at-scale-with-deepspeed-chat-6259bc04dc59)
 
 ## LORA
-- [Ahead of AI](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+- [Practical Tips for Finetuning LLMs Using LoRA](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 
 ## Models
 - [llama 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf)

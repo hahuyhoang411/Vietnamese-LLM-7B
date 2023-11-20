@@ -15,3 +15,13 @@ This repository is for the VietAI Research team to expand the vocabulary using O
 
 ## LORA
 - [Ahead of AI](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+
+## Models
+- [llama 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+- [mistral 7B](https://huggingface.co/mistralai/Mistral-7B-v0.1)
+
+## Dataset
+- [Pretrain](https://huggingface.co/datasets/uonlp/CulturaX)
+- [SFT-chat](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k)
+- [DPO-ultrafb](https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
+- [DPO-norobot](https://huggingface.co/datasets/HuggingFaceH4/no_robots)

@@ -3,6 +3,7 @@ This repository is for the VietAI Research team to expand the vocabulary of Open
 
 <img src="https://github.com/hahuyhoang411/Vietnamese-LLM-7B/assets/64120343/c8260f79-1a95-46ac-8194-215c8a56af63" width="300" height="300">
 
+
 <p align="center">
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/hahuyhoang411/Vietnamese-LLM-7B"/>
@@ -10,6 +11,7 @@ This repository is for the VietAI Research team to expand the vocabulary of Open
   <img alt="Github Contributors" src="https://img.shields.io/github/contributors/hahuyhoang411/Vietnamese-LLM-7B"/>
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/hahuyhoang411/Vietnamese-LLM-7B"/>
 </p>
+
 
 # Objective
 1. [ ] Train a tokenizer for Vietnamese.

@@ -18,11 +18,11 @@
 This repository is for the VietAI Research team to expand the vocabulary of Open Source Large Language Models.
 
 # Objective
-1. [ ] Train a tokenizer for Vietnamese.
-2. [ ] Continue training the `Llama2-7b` / `Mistral-7b` models on 120GB of Vietnamese data from the `CulturaX` dataset.
-3. [ ] Perform supervised fine-tuning of the model using the `ultrachat-200k` dataset from `H4`.
-4. [ ] Conduct DPO training of the model with the `ultrafeedback` / `no robots` datasets from H4.
-5. [ ] Train for tool use. (Optional)
+- [ ] 1. Train a tokenizer for Vietnamese.
+- [ ] 2. Continue training the `Llama2-7b` / `Mistral-7b` models on 120GB of Vietnamese data from the `CulturaX` dataset.
+- [ ] 3. Perform supervised fine-tuning of the model using the `ultrachat-200k` dataset from `H4`.
+- [ ] 4. Conduct DPO training of the model with the `ultrafeedback` / `no robots` datasets from H4.
+- [ ] 5. Train for tool use. (Optional)
 
 # Reference
 

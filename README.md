@@ -1,6 +1,8 @@
 # Vietnamese-LLM-7B
 This repository is for the VietAI Research team to expand the vocabulary using Open Source Large Language Models.
 
+![image](https://github.com/hahuyhoang411/Vietnamese-LLM-7B/assets/64120343/c8260f79-1a95-46ac-8194-215c8a56af63)
+
 
 # Reference
 

@@ -3,6 +3,12 @@ This repository is for the VietAI Research team to expand the vocabulary using O
 
 ![image](https://github.com/hahuyhoang411/Vietnamese-LLM-7B/assets/64120343/c8260f79-1a95-46ac-8194-215c8a56af63)
 
+# Objective
+1. [ ] Train a tokenizer for Vietnamese.
+2. [ ] Continue training the `Llama2-7b` / `Mistral-7b` models on 120GB of Vietnamese data from the `CulturaX` dataset.
+3. [ ] Perform supervised fine-tuning of the model using the `ultrachat-200k` dataset from `H4`.
+4. [ ] Conduct DPO training of the model with the `ultrafeedback` / `no robots` datasets from H4.
+5. [ ] Train for tool use. (Optional)
 
 # Reference
 
@@ -27,3 +33,4 @@ This repository is for the VietAI Research team to expand the vocabulary using O
 - [SFT-chat](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k)
 - [DPO-ultrafb](https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
 - [DPO-norobot](https://huggingface.co/datasets/HuggingFaceH4/no_robots)
+

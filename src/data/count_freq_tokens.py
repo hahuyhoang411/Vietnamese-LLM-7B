@@ -37,12 +37,12 @@ def main():
     dataset = load_dataset(args.data_name, args.data_config,
                            num_proc=args.num_proc, split="train")
 
+    dict_count = {}
     for data_th in tqdm(dataset):
         inputs = tokenizer.encode(
             data_th[args.column_text_name], max_length=args.max_length, padding=True, truncation=True)
         input_tokens = tokenizer.convert_ids_to_tokens(inputs)
 
-        dict_count = {}
         for input_token in input_tokens:
             dict_count[input_token] = 1 + dict_count.get(input_token, 0)
 

@@ -1,4 +1,4 @@
-python3 count_freq_token.py \
+python3 src/data/count_freq_tokens.py \
     --token_name VietAI/vit5-base \
     --data_name pphuc25/baivanhay \
     --num_proc 64 \

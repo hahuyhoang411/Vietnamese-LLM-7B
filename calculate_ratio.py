@@ -26,7 +26,7 @@ total_tokens = sum(dataset_with_token_counts['token_count'])
 print(f"Total number of tokens in the dataset: {total_tokens}")
 
 # Load the tokenizer for a specific model
-model_name = "/home/aardvark/llm-vie/Vietnamese-LLM-7B/tokenizer"  # Replace with your desired model
+model_name = "/llm-vie/Vietnamese-LLM-7B/tokenizer"  # Replace with your desired model
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 def tokenize_function(examples):
